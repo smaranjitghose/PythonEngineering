@@ -1,5 +1,6 @@
 <h1 align = "center">Fundamental Topics</h1>
 
+### Lecture 1
 
 - Python Installation - Windows / Mac
 - Git Installation
@@ -29,5 +30,4 @@
 - break and continue statements
 - else clause in loops
 
-## Problems
 
