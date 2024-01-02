@@ -1,6 +1,6 @@
 <h1 align = "center">Fundamental Topics</h1>
 
-### Lecture 1
+### Section 1
 
 - Python Installation - Windows / Mac
 - Git Installation
